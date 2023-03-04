@@ -1,0 +1,48 @@
+# Number of items
+30
+# Stacking height
+3
+# Number of stacks
+18
+# Item name, Appearance, and Item weight
+# (Appearance: 0 for I^{fix}, 1 for I^1, 2 for I^2)
+   001     0    17
+   002     0    23
+   003     0    59
+   004     0    73
+   005     0    42
+   006     0    63
+   007     0    76
+   008     0     6
+   009     0    43
+   010     1    43
+   011     1    44
+   012     1    19
+   013     1    78
+   014     1    85
+   015     1    57
+   016     1    64
+   017     1    99
+   018     1    61
+   019     1    37
+   020     2    41
+   021     2    59
+   022     2    58
+   023     2    64
+   024     2    26
+   025     2    21
+   026     2    54
+   027     2    64
+   028     2    82
+   029     2    95
+   030     2    91
+# Positions of Ifix-items in the format (itemName, stack, level)
+   001     1     2
+   002     2     1
+   003     3     1
+   004     5     1
+   005     7     1
+   006     8     1
+   007     4     1
+   008     6     1
+   009     1     1
